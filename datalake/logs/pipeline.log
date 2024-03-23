@@ -11,3 +11,16 @@
 2024-03-23 09:42:42,555:INFO:Starting downsampling
 2024-03-23 09:42:42,698:INFO:Train file created
 2024-03-23 09:42:42,709:INFO:Test file created
+2024-03-23 12:15:40,624:INFO:Starting ETL process
+2024-03-23 12:15:40,626:INFO:Starting data extraction
+2024-03-23 12:15:40,658:INFO:Data extraction completed
+2024-03-23 12:15:40,659:INFO:Starting data transformation
+2024-03-23 12:15:40,666:INFO:Data transformation completed
+2024-03-23 12:15:40,666:INFO:Starting data loading
+2024-03-23 12:15:40,710:INFO:Data loading completed
+2024-03-23 12:15:40,711:INFO:ETL process completed
+2024-03-23 12:15:40,711:INFO:Starting file moving
+2024-03-23 12:15:40,714:INFO:File moving completed
+2024-03-23 12:15:40,714:INFO:Starting downsampling
+2024-03-23 12:15:40,982:INFO:Train file created
+2024-03-23 12:15:40,998:INFO:Test file created
